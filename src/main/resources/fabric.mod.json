@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "forbricbus",
+  "version": "${version}",
+  "name": "ForbricBus",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "LGPL-2.1",
+  "icon": "assets/forbricbus/icon.png",
+  "environment": "*",
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": "*"
+  }
+}
